@@ -33,9 +33,9 @@ export default {
         clipboard.destroy()
       })
     },
-    copy (text, event) {
-      clickboard(text, event)
-    }
+    // copy (text, event) {
+    //   clickboard(text, event)
+    // }
   }
 }
 </script>
